@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "ex1": "ts-node src/ex1.ts",
-    "ex2": "ts-node src/ex2.ts"
+    "start": "ts-node src/index.ts"
   },
   "keywords": [],
   "author": "",
